@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoadBus WheelMenu</string>
+
+	<!-- Wheel menu -->			
+	<string name="wheel_promotions">Promotions</string>
+	<string name="wheel_happenings">Happenings</string>
+	<string name="wheel_treats">Everyday Treats</string>
+	<string name="wheel_special_day_treats">Special Day Treats</string>
+	    
+</resources>
